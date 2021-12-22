@@ -23,9 +23,13 @@
 hs_err_pid*
 /hr-worker/.gradle/
 /hr-worker/.idea/
+/hr-worker/build/
 /hr-payroll/.gradle/
 /hr-payroll/.idea/
+/hr-payroll/build/
 /hr-eureka-server/.gradle/
 /hr-eureka-server/.idea/
+/hr-eureka-server/build/
 /hr-api-gateway/.gradle/
 /hr-api-gateway/.idea/
+/hr-api-gateway/build/
