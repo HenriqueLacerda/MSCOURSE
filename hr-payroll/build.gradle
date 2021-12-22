@@ -25,6 +25,9 @@ dependencies {
 //    implementation 'org.springframework.cloud:spring-cloud-dependencies:Hoxton.SR12'
     implementation 'org.springframework.cloud:spring-cloud-starter-openfeign:3.0.5'
     implementation 'org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.2.10.RELEASE'
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
+    implementation 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
+    implementation 'org.glassfish.jaxb:jaxb-runtime'
 
     testImplementation('org.springframework.boot:spring-boot-starter-test')
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
